@@ -1,0 +1,11 @@
+package com.iconikindia.sumof2numbers;
+
+public class sumof2numbers {
+
+	public static void main(String[] args) {
+		int a = 10;
+		float b = 10.55f;
+		float sum = a+b;
+		System.out.println("Sum Of 2 numbers are : "+sum);
+	}
+}
